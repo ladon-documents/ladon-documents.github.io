@@ -9,7 +9,7 @@ const config = {
   title: "Ladon Documentation",
   tagline: "One system for all your documents",
   url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/ui/docu/",
+  baseUrl: "/docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
