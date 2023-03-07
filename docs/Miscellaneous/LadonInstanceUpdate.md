@@ -8,7 +8,7 @@ Check all available Ladon Versions at https://ladon.org/downloads
 
 ```bash
 ssh pi@ladon
-wget ttps://ladon.org/downloads/ladon_de_your_version.jar
+wget https://ladon.org/downloads/ladon_de_your_version.jar
 ```
 
 ### Backup and setup
