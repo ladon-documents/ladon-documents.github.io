@@ -1,6 +1,6 @@
 # Update your Ladon instance
 
-Check all available Ladon Versions at https://ladon.org/downloads
+Check all available Ladon Versions at [https://ladon.org/downloads](https://ladon.org/downloads)
 
 ## Update your local PI
 
