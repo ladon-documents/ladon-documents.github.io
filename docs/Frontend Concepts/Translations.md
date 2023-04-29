@@ -2,7 +2,7 @@
 
 ## Concepts
 
-+ Translations are used to serve the user a language hes familiar with
++ Translations are used to serve the user a language hes familiar with and setup on the running system
 + Translations a simplified by using a `function` call which is provides by [mf-ladon-utility-api](https://vcs.mind-consulting.de/projects/MIN/repos/mf-ladon-utility-api/browse)
 + Translations are store in `config/i18n/{your-language-code}.json`
 + Translation JSONs always wrap with your application name first. See [example](Translations.md#L17)
