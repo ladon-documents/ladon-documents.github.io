@@ -5,7 +5,7 @@
 + Pipes are helper functions which are provides by [mf-ladon-utility-api](https://vcs.mind-consulting.de/projects/MIN/repos/mf-ladon-utility-api/browse)
 + Provided by utility ensures code a stable and reusable
 
-### Alias Pipe
+## Alias Pipe
 
 #### Usage
 
@@ -17,7 +17,7 @@ aliasPipeTransform("Max Mustermann")
 
 See [full code here](https://vcs.mind-consulting.de/projects/MIN/repos/mf-ladon-utility-api/browse/src/pipes/alias.pipe.ts)
 
-### File Icon Pipe
+## File Icon Pipe
 
 #### Usage
 
@@ -29,7 +29,7 @@ document.querySelector('img').src = fileicon
 
 See [full code here](https://vcs.mind-consulting.de/projects/MIN/repos/mf-ladon-utility-api/browse/src/pipes/fileicon.pipe.ts)
 
-### File Name Pipe
+## File Name Pipe
 
 #### Usage
 
@@ -40,7 +40,7 @@ filenamePipeTransform("https://my-ladon/ui/assets/tester.pdf")
 
 See [full code here](https://vcs.mind-consulting.de/projects/MIN/repos/mf-ladon-utility-api/browse/src/pipes/filename.pipe.ts)
 
-### File Size Pipe
+## File Size Pipe
 
 #### Usage
 
@@ -52,7 +52,7 @@ filesizePipeTransform(12000)
 
 See [full code here](https://vcs.mind-consulting.de/projects/MIN/repos/mf-ladon-utility-api/browse/src/pipes/filesize.pipe.ts)
 
-### Translate Pipe
+## Translate Pipe
 
 The pipe translates to desired language code. For a detailed documentation see [Translations](Translations.md)
 
