@@ -35,7 +35,7 @@ If you wish to create a menu entry, either in the main navigation bar or the sub
 }
 ```
 
-For available value options see [schema]()
+For available value options see [schema](https://json-schema.org)
 
 ### Microfrontend
 
