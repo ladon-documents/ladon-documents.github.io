@@ -4,7 +4,8 @@
 
 + Translations are used to serve the user a language hes familiar with and setup on the running system
 + Translations a simplified by using a `function` call which is provides by [mf-ladon-utility-api](https://vcs.mind-consulting.de/projects/MIN/repos/mf-ladon-utility-api/browse)
-+ Translations are store in `config/i18n/{your-language-code}.json`
++ Translations are store in `config/i18n/{your-language-code}.json` and copied into `_system/etc/mind`
++ Translation files get gathered together out of `_system/etc/mind` and serves as a single json
 + Translation JSONs always wrap with your application name first. See [example](Translations.md#L17)
 + Applications should at least come with a `de.json` and `en.json`
 
