@@ -35,6 +35,14 @@ If you wish to create a menu entry, either in the main navigation bar or the sub
 }
 ```
 
+If you wish translation for your `label` value place a proper key in your translation files at `i18n` folder and update your json like so
+
+```json
+{
+  "label": "MY_MICROFRONTEND.NAVITEM",
+}
+```
+
 For available value options see [schema](https://json-schema.org)
 
 ### Microfrontend
