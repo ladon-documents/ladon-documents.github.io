@@ -18,7 +18,7 @@ url=${3:-ladon}
 put_binary index.html index.html
 ``` 
 
-**Tipp:**: If you wish to upload to your local instance, running on your pi in a non secure enviroment change htts to http and add a `8080` port to your url like so
+**Tipp:** If you wish to upload to your local instance, running on your pi in a non secure enviroment change htts to http and add a `8080` port to your url like so
 
 ```bash
 put_binary index.html index.html ladon:8080
