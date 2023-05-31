@@ -8,6 +8,7 @@ This is possible because after installation you projects `config` folder get's c
 That's way it's important to keep following structure
 
 ## Config
+
 ### Structure
 
 ```bash
@@ -19,7 +20,7 @@ That's way it's important to keep following structure
 
 ### Translation
 
-We recommend to use a `de.json` and `en.json` to start with. For further details read the [Translations Documentation](Translations.md) 
+We recommend to use a `de.json` and `en.json` to start with. For further details read the [Translations Documentation](Translations.md)
 
 ### Menu
 
@@ -39,7 +40,7 @@ If you wish translation for your `label` value place a proper key in your transl
 
 ```json
 {
-  "label": "MY_MICROFRONTEND.NAVITEM",
+  "label": "MY_MICROFRONTEND.NAVITEM"
 }
 ```
 
@@ -80,11 +81,10 @@ This folder is important to register end serve your microfrontend properly in yo
 
 Configure your `package.json` as follows:
 
-
 ```json
 "files": [
-	"...",
-	"config",
-	"..."
+  "...",
+  "config",
+  "..."
 ]
-``` 
+```
