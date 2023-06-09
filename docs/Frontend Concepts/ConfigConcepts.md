@@ -18,6 +18,35 @@ That's way it's important to keep following structure
     └── microfrontend
 ```
 
+### Instance config
+
+Our root config microfrontend including a `app.json` file. This file contains configurations for your ladon instance. If you wish to change your title name and favicon,
+in terms of serveral different ladon instances running, you can do so by changing `ladonTitle` and `favicon` value
+
+```json
+{
+  "storage": "sessionStorage",
+  "ladonTitle": "Ladon Documents",
+  "favicon": "/ui/root/assets/favicon.ico",
+  "basePath": "/ui/root",
+  "anonymousAccess": true,
+  "loginUrl": "/ui/root/login",
+  "ladonAuthApi": {
+    "API_BASE_URL": "/admin",
+    "LOGIN": "/auth/login",
+    "LOGOUT": "/auth/logout",
+    "SIGN": "/auth/signup",
+    "ME": "/user/me",
+    "ACTIONS": "/user/allowableactions"
+  },
+  "logger": "ALL",
+  "media": {
+    "fileLimit": 167777216,
+    "acceptedFiles": ["jpg", "jpeg", "png", "pdf"]
+  }
+}
+```
+
 ### Translation
 
 We recommend to use a `de.json` and `en.json` to start with. For further details read the [Translations Documentation](Translations.md)
