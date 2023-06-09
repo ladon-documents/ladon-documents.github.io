@@ -4,7 +4,7 @@
 
 + Theme for your Ladon instance
 + Holds global components such as spinner or alerts
-+ Customizations are made in the `ladon-theme-custom.css` located in `config` and get copied to `_system/etc/mind`
++ Customizations are made in the `ladon-theme-custom.css` located in `config` and get copied to `_system/etc/ui/mind`
 
 ## Custom CSS
 

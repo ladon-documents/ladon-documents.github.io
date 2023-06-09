@@ -3,7 +3,7 @@
 The idea of the `config` folder in your microfrontend project is to have every needed setup files, such as translation, menu entry oder microfrontend entry stored
 in your project. It's available on your ladon instance as soon as you install it and also get's cleaned up when you deinstall.
 
-This is possible because after installation you projects `config` folder get's copied to `_system/etc/mind`.
+This is possible because after installation you projects `config` folder get's copied to `_system/etc/ui/mind`.
 
 That's way it's important to keep following structure
 

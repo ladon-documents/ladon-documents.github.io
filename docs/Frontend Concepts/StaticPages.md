@@ -42,7 +42,7 @@ It's important to have html and javascript in one file. This is how a `module.ht
 
 ### As navigation entry
 
-Add a custom `json` file into `_system/etc/mind/mf-ladon-static-page/config/menu` with the following content
+Add a custom `json` file into `_system/etc/ui/mind/mf-ladon-static-page/config/menu` with the following content
 
 ```json
 {
