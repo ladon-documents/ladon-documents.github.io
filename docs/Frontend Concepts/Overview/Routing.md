@@ -4,7 +4,10 @@ This page describes how routing is handled in Ladon.
 
 ## Concepts
 + Routing between pages and/or Microfrontends should always triggerd via the appropriate event
++ Ladon uses Web Stadnard Custom Events to dispatch the events.
++ For internal routing pass the `id` of the microfrontend and optional data 
 + Ladon allows you to check a route before navigating to it.
++ Routing is handled globally in the Root Config Application. 
 
 
 #### Usage

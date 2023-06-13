@@ -60,7 +60,7 @@ If you wish to create a menu entry, either in the main navigation bar or the sub
   "label": "My Microfrontend",
   "target": "internal",
   "type": "menu",
-  "path": "ui/root/users",
+  "id": "@mind/mf-ladon-my-microfrontend",
   "index": 10
 }
 ```
