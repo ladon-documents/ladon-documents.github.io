@@ -21,8 +21,7 @@ TODO: add picture with description
 - The Ladon Root Config is the main Microfrontend and therefore a must have dependency to be installed.
 - Permissions and access is checked via the `LadonUrlGuard Class`
 - Available WebComponents are injected into the html file. For this Ladon is checking all files located under  `_ui/*/wc-*/dist/wc-*.js` 
-  For more information about the [webcomponents concepts read the  docs](WebComponents.md)
-- 
+- For more information about the web components concepts read the docs.
 
 
 

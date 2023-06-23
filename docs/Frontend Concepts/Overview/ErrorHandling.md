@@ -5,7 +5,7 @@ This page describes how error handling is implemented in Ladon.
 ## Concepts
 
 + Global Error Handler fires all events to registered Applications
-+ Default HTML Templates for special errors (404, 403, Crash etc) which can be customized.  [config concepts HTML Templates](ConfigConcepts.md)   
++ Default HTML Templates for special errors (404, 403, Crash etc) which can be customized.  [config concepts HTML Templates](../ConfigConcepts.md)   
 
 
 ## HTTP Errors
