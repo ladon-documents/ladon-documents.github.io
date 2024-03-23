@@ -27,6 +27,7 @@ in terms of serveral different ladon instances running, you can do so by changin
 {
   "storage": "sessionStorage",
   "ladonTitle": "Ladon Documents",
+  "ladonLoginAsset": "/ui/root/assets/custom.jpg",
   "favicon": "/ui/root/assets/favicon.ico",
   "basePath": "/ui/root",
   "anonymousAccess": true,
