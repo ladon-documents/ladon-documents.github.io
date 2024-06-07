@@ -1,6 +1,7 @@
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+View the documetation at https://ladon-documents.github.io
 
 ### Installation
 
