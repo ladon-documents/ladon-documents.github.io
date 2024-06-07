@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Ladon Documentation",
   tagline: "One system for all your documents",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/doc",
+  url: "https://ladon-documents.github.io",
+  baseUrl: "/build",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
